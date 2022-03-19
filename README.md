@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlamaaranRamakrishnan
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning nodejs and AWS
+- 👀 I aspire to become a fullstack developer
+- 🌱 I’m currently learning nodejs,React and AWS
 - 💞️ I’m looking to collaborate on web developement projects
 - 📫 How to reach me https://www.linkedin.com/in/ilamaaran-ramakrishnan-aa201b87/
 
